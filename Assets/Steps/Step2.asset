@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f46713604b44768ab22d8bfd2ad85e6, type: 3}
+  m_Name: Step2
+  m_EditorClassIdentifier: 
+  Content: "\u0412\u044B \u043E\u043A\u0430\u0437\u0430\u043B\u0438\u0441\u044C \u0432
+    \u043A\u043E\u0440\u0438\u0434\u043E\u0440\u0435. \u041C\u043E\u0436\u0435\u0442\u0435
+    \u043F\u043E\u0439\u0442\u0438 \u043D\u0430 \u0437\u0430\u043F\u0430\u0434, \u043D\u0430
+    \u0432\u043E\u0441\u0442\u043E\u043A \u0438\u043B\u0438 \u0441\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F
+    \u043F\u043E \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435.\n\n1. \u041D\u0430
+    \u0437\u0430\u043F\u0430\u0434\n2. \u041D\u0430 \u0432\u043E\u0441\u0442\u043E\u043A\n3.
+    \u0421\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F \u043F\u043E \u043B\u0435\u0441\u0442\u043D\u0438\u0446\u0435"
+  Location: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440 \u0432\u0435\u0440\u0445\u043D\u0435\u0433\u043E
+    \u044D\u0442\u0430\u0436\u0430"
+  LocalImg: {fileID: 21300000, guid: 38a6422c2a9ecf44c9f6376cbca53a74, type: 3}
+  Steps:
+  - {fileID: 11400000, guid: e5fd7efd54e80414e8f3cc1a41dbe82c, type: 2}
+  - {fileID: 11400000, guid: 38cb1fa3e1b226c4eb3ffaad1631e83f, type: 2}
+  - {fileID: 11400000, guid: 28a04ce5b82d8364f8ce2ecfa1ffabe6, type: 2}
